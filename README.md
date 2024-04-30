@@ -16,6 +16,12 @@ To get started with `pypcd4`, install it using pip:
 pip install pypcd4
 ```
 
+Or, install with [pyproject.toml](https://stackoverflow.com/questions/62983756/what-is-pyproject-toml-file-for),
+
+```
+python -m pip install .
+```
+
 ## Usage
 
 Let’s walk through some examples of how you can use pypcd4:
